@@ -1,0 +1,52 @@
+.body{
+    background-color: rgb(20, 20, 22);
+}
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/patrick-weissenberger-uJhgEXPqSPk-unsplash.jpg");
+    height: 60vh;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+
+.hero-text{
+    padding:8%;
+}
+
+.business {
+    background-image:  url("./images/adeolu-eletu-E7RLgUjjazc-unsplash.jpg");
+    height: 50vh;
+    border-radius: 5px;
+    margin-left: 80px;
+    width: 80%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+.computer-stocks {
+    background-image: url("./images/pexels-alesia-kozik-6770610.jpg");
+    height: 50vh;
+    width: 80%;
+    border-radius: 5px;
+    margin-right: 10%;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+.footer{
+  background-color: black;
+}
