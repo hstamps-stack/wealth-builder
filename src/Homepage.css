@@ -1,5 +1,5 @@
 .body{
-    background-color: rgb(39, 39, 43);
+    background-color: rgb(20, 20, 22);
 }
 .hero {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/patrick-weissenberger-uJhgEXPqSPk-unsplash.jpg");
@@ -45,4 +45,8 @@
   background-size: cover;
   position: relative;
 
+}
+
+.footer{
+  background-color: black;
 }

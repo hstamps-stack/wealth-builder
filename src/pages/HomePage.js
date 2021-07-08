@@ -1,15 +1,15 @@
 import '../Homepage.css';
-import Footer from '../Components/Footer';
+
 const Homepage = () =>{
     return (
         <div>
             <div className="hero image-fluid">
-                <p className=" text-center text-white display-5 fw-bold hero-text"> Become A Wealth Builder</p>
+                <p className=" text-center text-white display-5 fw-bold hero-text display-5"> Become A Wealth Builder</p>
             </div>
             <div className="container">
                 <div className="row">
                     <div className="col text-white fw-bold mt-4 mb-4 text-center">
-                        <h1 className="display-4">Build Wealth by finding stock companies that meet your Standards!</h1>
+                        <h1 className="display-5">Build Wealth by finding stock companies that meet your Standards!</h1>
                     </div>
                 </div>
                 <div className="row mt-5 ">
@@ -37,7 +37,6 @@ const Homepage = () =>{
                     </div>  
                 </div>
             </div>
-            <Footer/>
         </div> 
           
     )

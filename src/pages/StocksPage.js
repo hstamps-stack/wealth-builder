@@ -1,6 +1,6 @@
 const StocksData = () =>{
     return (
-        <div></div>
+        <div> Hi</div>
     )
 }
 
